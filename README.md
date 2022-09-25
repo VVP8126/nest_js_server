@@ -22,18 +22,19 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Example of nest project. Work with user, roles, access grants, file system
+## See original example here:
+https://www.youtube.com/watch?v=dDeWWQWMM-Y&list=PL6DxKON1uLOEbfFpZQA9aztkj-guW52jn&index=2
 
+## Description
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
-
 ```bash
 $ npm install
 ```
 
 ## Running the app
-
 ```bash
 # development
 $ npm run start
